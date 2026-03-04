@@ -1,0 +1,5 @@
+{
+  "name": "CAS Ticket Intelligence",
+  "description": "Semantic pattern-matching for IT incident resolution using historical ticket data.",
+  "requestFramePermissions": []
+}
